@@ -3,91 +3,121 @@
         "id": 1,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/AMAZON_fp01.png",
         "percentage": 1.80,
-        "name": "Amazon.com"
+        "name": "Amazon.com",
+        "promocode": "WORK1293",
+        "price":"$49.60"
+
     },
     {
         "id": 2,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/MGWGCPC_fp01.png",
         "percentage": 1.30,
-        "name": "Egnite choice card"
+        "name": "Egnite choice card",
+        "promocode": "WORK123",
+        "price":"$29.30"
     },
     {
         "id": 3,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/ITUNESC_fp01.png",
         "percentage": 1.80,
-        "name": "Apple gift card"
+        "name": "Apple gift card",
+        "promocode": "WAYW1293"
     },
     {
         "id": 4,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/DOMINOS_fp01.png",
         "percentage": 1.810,
-        "name": "Domino's® eGift Card"
+        "name": "Domino's® eGift Card",
+        "promocode": "WORKQW12",
+        "price":"$39.30"
     },
     {
         "id": 5,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/DUNKIN_fp01.png",
         "percentage": 2.0,
-        "name": "Dunkin' Donuts® eGift Card"
+        "name": "Dunkin' Donuts® eGift Card",
+        "promocode": "WORK11123",
+        "price":"$149.60"
+
     },
     {
         "id": 6,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/THD_fp01.png",
         "percentage": 2.0,
-        "name": "The Home Depot® eGift Card"
+        "name": "The Home Depot® eGift Card",
+        "promocode": "WAJDK1293",
+        "price":"$39.60"
     },
     {
         "id": 7,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/MACYS_fp01.png",
         "percentage": 0.76,
-        "name": "Macy's eGift Card"
+        "name": "Macy's eGift Card",
+        "promocode": "WORK12EWE93",
+        "price":"$89.10"
     },
     {
         "id": 8,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/UBER_fp01.png",
         "percentage": 2.76,
-        "name": "Uber eGift Card"
+        "name": "Uber eGift Card",
+        "promocode": "WORK12QASQ1",
+        "price":"$39.10"
     },
     {
         "id": 9,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/WALMART_fp01.png",
         "percentage": 9.76,
-        "name": "Walmart eGift Card"
+        "name": "Walmart eGift Card",
+        "price":"$29.60"
     },
     {
         "id": 10,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/WAYFAIR_fp01.png",
         "percentage": 3.10,
-        "name": "Wayfair eGift Card"
+        "name": "Wayfair eGift Card",
+        "promocode": "WARRK1293",
+        "price":"$123.60"
     },
     {
         "id": 11,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/ADIDAS_fp01.png",
         "percentage": 1.33,
-        "name": "adidas eGift Card"
+        "name": "adidas eGift Card",
+        "promocode": "WORK12QW1",
+        "price":"$129.90"
     },
     {
         "id": 12,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/GAMESTOP_fp01.png",
         "percentage": 2.39,
-        "name": "GameStop eGift Card"
+        "name": "GameStop eGift Card",
+        "promocode": "UDA293",
+        "price":"$49.69"
     },
     {
         "id": 13,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/LOWES_fp01.png",
         "percentage": 2.01,
-        "name": "Lowe's® eGift Card"
+        "name": "Lowe's® eGift Card",
+        "promocode": "TIXASS3",
+        "price":"$49.60"
     },
     {
         "id": 14,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/TARGET_fp01.png",
         "percentage": 2.41,
-        "name": "Target eGift Card"
+        "name": "Target eGift Card",
+        "promocode": "ARTE293",
+        "price":"$49.60"
     },
     {
         "id": 15,
         "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/VANILLAEGIFT50_fp01.png",
         "percentage": 2.01,
-        "name": "Vanilla® Visa® eGift Card"
+        "name": "Vanilla® Visa® eGift Card",
+        "promocode": "WORK1202",
+        "price":"$49.60"
     }
 ]
 

@@ -68,6 +68,18 @@ The website has been designed with a mobile-first approach. This means that the 
 ### UI Framework
 The website has been built using [Material-UI](https://material-ui.com/), a popular React UI framework that implements Google's Material Design guidelines.
 
+
+## React Router
+React Router is a popular library for handling client-side routing in React applications, it provides several benefits such as:
+- Handling client-side navigation without triggering a full page reload, this provide a better user experience in a single-page application (SPA) 
+- Managing the browser history programmatically, this allow to implement features like "back" and "forward" navigation.
+- Handling dynamic URLs and parameters, which can be useful to link directly to specific pages in your website , or handle user-generated  URLs.
+- Help in creating a full SPA experience, with a fluid navigation between pages in your website.
+
+## Installation
+
+
+
 ### Styling
 In addition to Material-UI, the website has been styled using [Tailwind CSS](https://tailwindcss.com/), a utility-first CSS framework. This allows for rapid styling of the website and consistent design throughout the project.
 

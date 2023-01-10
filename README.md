@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# README for CHIGIFT Giftcard Website on Vercel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the Project](#running-the-project)
+- [Additional Features](#additional-features)
+  - [Search Function](#search-function)
+  - [Add to Cart](#add-to-cart)
+- [Design and Development Approach](#design-and-development-approach)
+  - [Mobile-first Design](#mobile-first-design)
+  - [UI Framework](#ui-framework)
+  - [Styling](#styling)
+- [Tradeoffs](#tradeoffs)
+  - [Optimizing Search Function](#optimizing-search-function)
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+### Prerequisites
+- Node.js and npm (or yarn)
+- Vercel account and the [Vercel CLI](https://vercel.com/download)
 
-### `npm start`
+### Installation
+1. Clone the repository
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+(git clone git@github.com:Tajudeenazeez/chigiftcard.git)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Install dependencies
 
-### `npm test`
+### npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## or
 
-### `npm run build`
+## yarn install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Running the Project
+1. Start a development server
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### npm run start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## or
 
-### `npm run eject`
+### yarn start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Open the project in your browser at `http://localhost:3000`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Additional Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Customization 
+Customization features have been implemented to provide a unique user experience, while ensuring that user can use the website without much difficulties
 
-## Learn More
+### Testing 
+testing has been implemented to improve website performance and reduce avoidable bugs, this was done in a minimal requirement for the current project.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Search Function
+A search function has been implemented to allow users to quickly find the giftcard they are looking for. The search function searches through the giftcard titles and descriptions.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Add to Cart
+Users can add giftcards to their cart and proceed to checkout. The cart is implemented using React context and Hooks.
 
-### Code Splitting
+## Design and Development Approach
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Mobile-first Design
+The website has been designed with a mobile-first approach. This means that the website has been optimized for smaller screens and touch-based interaction.
 
-### Analyzing the Bundle Size
+### UI Framework
+The website has been built using [Material-UI](https://material-ui.com/), a popular React UI framework that implements Google's Material Design guidelines.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Styling
+In addition to Material-UI, the website has been styled using [Tailwind CSS](https://tailwindcss.com/), a utility-first CSS framework. This allows for rapid styling of the website and consistent design throughout the project.
 
-### Making a Progressive Web App
+## Tradeoffs
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### Simplicity
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+I could have written the website code to handle a large number of products and customers [Scalability] using a more complex architecture, however the time limit to submit the project considering my current engagement inferred writing a simplified working code for assesement purpose only.
+ 
 
-### Deployment
+### Performance
+Security measures such as encryption and authentication have been ignored to just ensured that user can use the website for demo with much emphasize on website performance.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Search 
+The search function has been optimized for performance, but this comes at the cost of search accuracy [Performance].
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Personalization vs. Privacy
+ Personalization features such as recommendation, browsing history have been implemented to give users a good experience, but they also have the potential to compromise the privacy of users.
+
+### Optimizing Search Function
+To improve the performance of the search function, a tradeoff had to be made in terms of the complexity of the search algorithm. A simple search algorithm was chosen for the sake of faster search times, but this means that the search function may not be as accurate as a more complex algorithm.
+
+

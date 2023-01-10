@@ -1,5 +1,5 @@
 import React from "react";
-import { FaHamburger, FaUser, FaShoppingCart } from "react-icons/fa";
+import { FaUser, FaShoppingCart } from "react-icons/fa";
 import {BiMenu} from "react-icons/bi"
 import { Link } from "react-router-dom";
 import logo from "../assests/MGWGCPC_fp01.avif"

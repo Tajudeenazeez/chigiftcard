@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/AMAZON_fp01.png",
+        "percentage": 1.80,
+        "name": "Amazon.com"
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/MGWGCPC_fp01.png",
+        "percentage": 1.30,
+        "name": "Egnite choice card"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/ITUNESC_fp01.png",
+        "percentage": 1.80,
+        "name": "Apple gift card"
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/DOMINOS_fp01.png",
+        "percentage": 1.810,
+        "name": "Domino's® eGift Card"
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/DUNKIN_fp01.png",
+        "percentage": 2.0,
+        "name": "Dunkin' Donuts® eGift Card"
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/THD_fp01.png",
+        "percentage": 2.0,
+        "name": "The Home Depot® eGift Card"
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/MACYS_fp01.png",
+        "percentage": 0.76,
+        "name": "Macy's eGift Card"
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/UBER_fp01.png",
+        "percentage": 2.76,
+        "name": "Uber eGift Card"
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/WALMART_fp01.png",
+        "percentage": 9.76,
+        "name": "Walmart eGift Card"
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/WAYFAIR_fp01.png",
+        "percentage": 3.10,
+        "name": "Wayfair eGift Card"
+    },
+    {
+        "id": 11,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/ADIDAS_fp01.png",
+        "percentage": 1.33,
+        "name": "adidas eGift Card"
+    },
+    {
+        "id": 12,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/GAMESTOP_fp01.png",
+        "percentage": 2.39,
+        "name": "GameStop eGift Card"
+    },
+    {
+        "id": 13,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/LOWES_fp01.png",
+        "percentage": 2.01,
+        "name": "Lowe's® eGift Card"
+    },
+    {
+        "id": 14,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/TARGET_fp01.png",
+        "percentage": 2.41,
+        "name": "Target eGift Card"
+    },
+    {
+        "id": 15,
+        "imageUrl": "https://egsiteassets.images.egifter.com/Images/GiftCardFaceplates/External/VANILLAEGIFT50_fp01.png",
+        "percentage": 2.01,
+        "name": "Vanilla® Visa® eGift Card"
+    }
+]
+

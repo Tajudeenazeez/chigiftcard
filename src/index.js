@@ -7,6 +7,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import App from './App';
+import ProductLists from './component/ProductLists';
 import reportWebVitals from './reportWebVitals';
 import ErrorPage from './Layout/ErrorPage';
 
@@ -16,6 +17,11 @@ const router = createBrowserRouter([
     element: <App/>,
     errorElement:<ErrorPage/>,
   },
+  {
+    path: "/productLists",
+    element: <ProductLists/>,
+    errorElement:<ErrorPage/>
+  }
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(

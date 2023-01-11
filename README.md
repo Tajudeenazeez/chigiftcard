@@ -136,3 +136,4 @@ This guide explains how I would optimize the performance of a flipbook of this w
 Keep in mind that performance is a trade-off, balancing between good user experience and website performance.
 
 **While all the above point is not neccessary implementated, I am well conversant with the approach and technicality**
+
